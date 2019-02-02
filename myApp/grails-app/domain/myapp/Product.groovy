@@ -1,7 +1,7 @@
 package myapp
 
 class Product {
-    String product
+    String name
     Float price
     
     static constraints = {
